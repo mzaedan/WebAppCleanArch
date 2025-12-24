@@ -1,0 +1,17 @@
+D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Application\bin\Debug\net8.0\WebAppCleanArch.Application.deps.json
+D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Application\bin\Debug\net8.0\WebAppCleanArch.Application.runtimeconfig.json
+D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Application\bin\Debug\net8.0\WebAppCleanArch.Application.dll
+D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Application\bin\Debug\net8.0\WebAppCleanArch.Application.pdb
+D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Application\bin\Debug\net8.0\WebAppCleanArch.Domain.dll
+D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Application\bin\Debug\net8.0\WebAppCleanArch.Domain.pdb
+D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Application\obj\Debug\net8.0\WebAppCleanArch.Application.csproj.AssemblyReference.cache
+D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Application\obj\Debug\net8.0\WebAppCleanArch.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Application\obj\Debug\net8.0\WebAppCleanArch.Application.AssemblyInfoInputs.cache
+D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Application\obj\Debug\net8.0\WebAppCleanArch.Application.AssemblyInfo.cs
+D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Application\obj\Debug\net8.0\WebAppCleanArch.Application.csproj.CoreCompileInputs.cache
+D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Application\obj\Debug\net8.0\WebAppCl.E2255FAE.Up2Date
+D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Application\obj\Debug\net8.0\WebAppCleanArch.Application.dll
+D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Application\obj\Debug\net8.0\refint\WebAppCleanArch.Application.dll
+D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Application\obj\Debug\net8.0\WebAppCleanArch.Application.pdb
+D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Application\obj\Debug\net8.0\WebAppCleanArch.Application.genruntimeconfig.cache
+D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Application\obj\Debug\net8.0\ref\WebAppCleanArch.Application.dll

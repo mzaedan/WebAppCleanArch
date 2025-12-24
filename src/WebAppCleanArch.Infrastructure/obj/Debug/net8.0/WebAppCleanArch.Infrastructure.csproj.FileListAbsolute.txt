@@ -1,0 +1,17 @@
+D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Infrastructure\bin\Debug\net8.0\WebAppCleanArch.Infrastructure.deps.json
+D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Infrastructure\bin\Debug\net8.0\WebAppCleanArch.Infrastructure.dll
+D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Infrastructure\bin\Debug\net8.0\WebAppCleanArch.Infrastructure.pdb
+D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Infrastructure\bin\Debug\net8.0\WebAppCleanArch.Application.dll
+D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Infrastructure\bin\Debug\net8.0\WebAppCleanArch.Domain.dll
+D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Infrastructure\bin\Debug\net8.0\WebAppCleanArch.Application.pdb
+D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Infrastructure\bin\Debug\net8.0\WebAppCleanArch.Domain.pdb
+D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Infrastructure\obj\Debug\net8.0\WebAppCleanArch.Infrastructure.csproj.AssemblyReference.cache
+D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Infrastructure\obj\Debug\net8.0\WebAppCleanArch.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Infrastructure\obj\Debug\net8.0\WebAppCleanArch.Infrastructure.AssemblyInfoInputs.cache
+D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Infrastructure\obj\Debug\net8.0\WebAppCleanArch.Infrastructure.AssemblyInfo.cs
+D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Infrastructure\obj\Debug\net8.0\WebAppCleanArch.Infrastructure.csproj.CoreCompileInputs.cache
+D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Infrastructure\obj\Debug\net8.0\WebAppCl.FAA08F3F.Up2Date
+D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Infrastructure\obj\Debug\net8.0\WebAppCleanArch.Infrastructure.dll
+D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Infrastructure\obj\Debug\net8.0\refint\WebAppCleanArch.Infrastructure.dll
+D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Infrastructure\obj\Debug\net8.0\WebAppCleanArch.Infrastructure.pdb
+D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Infrastructure\obj\Debug\net8.0\ref\WebAppCleanArch.Infrastructure.dll
