@@ -16,5 +16,11 @@ public class ApplicationDbContext : DbContext, IApplicationDbContext
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         base.OnModelCreating(modelBuilder);
+        
+        modelBuilder.Entity<Course>()
+            .HasOne(c => c.Student)
+            .WithMany(s => s.Courses)
+            .HasForeignKey(c => c.StudentId)
+            .OnDelete(DeleteBehavior.Cascade);
     }
 }

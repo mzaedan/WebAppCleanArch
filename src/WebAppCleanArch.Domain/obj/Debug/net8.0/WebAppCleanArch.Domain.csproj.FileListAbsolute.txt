@@ -9,3 +9,15 @@ D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Domain\obj\Debug\
 D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Domain\obj\Debug\net8.0\refint\WebAppCleanArch.Domain.dll
 D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Domain\obj\Debug\net8.0\WebAppCleanArch.Domain.pdb
 D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Domain\obj\Debug\net8.0\ref\WebAppCleanArch.Domain.dll
+D:\belajar-coding\paradaya\FullStack MVC NET\WebAppCleanArch\src\WebAppCleanArch.Domain\bin\Debug\net8.0\WebAppCleanArch.Domain.deps.json
+D:\belajar-coding\paradaya\FullStack MVC NET\WebAppCleanArch\src\WebAppCleanArch.Domain\bin\Debug\net8.0\WebAppCleanArch.Domain.dll
+D:\belajar-coding\paradaya\FullStack MVC NET\WebAppCleanArch\src\WebAppCleanArch.Domain\bin\Debug\net8.0\WebAppCleanArch.Domain.pdb
+D:\belajar-coding\paradaya\FullStack MVC NET\WebAppCleanArch\src\WebAppCleanArch.Domain\obj\Debug\net8.0\WebAppCleanArch.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\belajar-coding\paradaya\FullStack MVC NET\WebAppCleanArch\src\WebAppCleanArch.Domain\obj\Debug\net8.0\WebAppCleanArch.Domain.AssemblyInfoInputs.cache
+D:\belajar-coding\paradaya\FullStack MVC NET\WebAppCleanArch\src\WebAppCleanArch.Domain\obj\Debug\net8.0\WebAppCleanArch.Domain.AssemblyInfo.cs
+D:\belajar-coding\paradaya\FullStack MVC NET\WebAppCleanArch\src\WebAppCleanArch.Domain\obj\Debug\net8.0\WebAppCleanArch.Domain.csproj.CoreCompileInputs.cache
+D:\belajar-coding\paradaya\FullStack MVC NET\WebAppCleanArch\src\WebAppCleanArch.Domain\obj\Debug\net8.0\WebAppCleanArch.Domain.sourcelink.json
+D:\belajar-coding\paradaya\FullStack MVC NET\WebAppCleanArch\src\WebAppCleanArch.Domain\obj\Debug\net8.0\WebAppCleanArch.Domain.dll
+D:\belajar-coding\paradaya\FullStack MVC NET\WebAppCleanArch\src\WebAppCleanArch.Domain\obj\Debug\net8.0\refint\WebAppCleanArch.Domain.dll
+D:\belajar-coding\paradaya\FullStack MVC NET\WebAppCleanArch\src\WebAppCleanArch.Domain\obj\Debug\net8.0\WebAppCleanArch.Domain.pdb
+D:\belajar-coding\paradaya\FullStack MVC NET\WebAppCleanArch\src\WebAppCleanArch.Domain\obj\Debug\net8.0\ref\WebAppCleanArch.Domain.dll

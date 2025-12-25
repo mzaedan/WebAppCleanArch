@@ -11,7 +11,7 @@ using WebAppCleanArch.Infrastructure.Persistence.Context;
 namespace WebAppCleanArch.Infrastructure.Persistence.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20251222230949_InitialCreate")]
+    [Migration("20251225142352_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />

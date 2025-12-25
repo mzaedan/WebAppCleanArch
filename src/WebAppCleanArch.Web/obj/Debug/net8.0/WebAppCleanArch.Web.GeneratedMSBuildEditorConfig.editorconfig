@@ -9,59 +9,79 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebAppCleanArch.Web
 build_property.RootNamespace = WebAppCleanArch.Web
-build_property.ProjectDir = D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Web\
+build_property.ProjectDir = D:\belajar-coding\paradaya\FullStack MVC NET\WebAppCleanArch\src\webappcleanarch.web\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\belajar-coding\paradaya\WebAppCleanArch\src\WebAppCleanArch.Web
+build_property.MSBuildProjectDirectory = D:\belajar-coding\paradaya\FullStack MVC NET\WebAppCleanArch\src\webappcleanarch.web
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/belajar-coding/paradaya/WebAppCleanArch/src/WebAppCleanArch.Web/Views/Home/Index.cshtml]
+[D:/belajar-coding/paradaya/FullStack MVC NET/WebAppCleanArch/src/webappcleanarch.web/Views/Course/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/belajar-coding/paradaya/FullStack MVC NET/WebAppCleanArch/src/webappcleanarch.web/Views/Course/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/belajar-coding/paradaya/FullStack MVC NET/WebAppCleanArch/src/webappcleanarch.web/Views/Course/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/belajar-coding/paradaya/FullStack MVC NET/WebAppCleanArch/src/webappcleanarch.web/Views/Course/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/belajar-coding/paradaya/FullStack MVC NET/WebAppCleanArch/src/webappcleanarch.web/Views/Course/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/belajar-coding/paradaya/FullStack MVC NET/WebAppCleanArch/src/webappcleanarch.web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/belajar-coding/paradaya/WebAppCleanArch/src/WebAppCleanArch.Web/Views/Home/Privacy.cshtml]
+[D:/belajar-coding/paradaya/FullStack MVC NET/WebAppCleanArch/src/webappcleanarch.web/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/belajar-coding/paradaya/WebAppCleanArch/src/WebAppCleanArch.Web/Views/Shared/Error.cshtml]
+[D:/belajar-coding/paradaya/FullStack MVC NET/WebAppCleanArch/src/webappcleanarch.web/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/belajar-coding/paradaya/WebAppCleanArch/src/WebAppCleanArch.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/belajar-coding/paradaya/FullStack MVC NET/WebAppCleanArch/src/webappcleanarch.web/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/belajar-coding/paradaya/WebAppCleanArch/src/WebAppCleanArch.Web/Views/Student/Create.cshtml]
+[D:/belajar-coding/paradaya/FullStack MVC NET/WebAppCleanArch/src/webappcleanarch.web/Views/Student/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/belajar-coding/paradaya/WebAppCleanArch/src/WebAppCleanArch.Web/Views/Student/Delete.cshtml]
+[D:/belajar-coding/paradaya/FullStack MVC NET/WebAppCleanArch/src/webappcleanarch.web/Views/Student/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/belajar-coding/paradaya/WebAppCleanArch/src/WebAppCleanArch.Web/Views/Student/Details.cshtml]
+[D:/belajar-coding/paradaya/FullStack MVC NET/WebAppCleanArch/src/webappcleanarch.web/Views/Student/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/belajar-coding/paradaya/WebAppCleanArch/src/WebAppCleanArch.Web/Views/Student/Edit.cshtml]
+[D:/belajar-coding/paradaya/FullStack MVC NET/WebAppCleanArch/src/webappcleanarch.web/Views/Student/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/belajar-coding/paradaya/WebAppCleanArch/src/WebAppCleanArch.Web/Views/Student/Index.cshtml]
+[D:/belajar-coding/paradaya/FullStack MVC NET/WebAppCleanArch/src/webappcleanarch.web/Views/Student/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/belajar-coding/paradaya/WebAppCleanArch/src/WebAppCleanArch.Web/Views/_ViewImports.cshtml]
+[D:/belajar-coding/paradaya/FullStack MVC NET/WebAppCleanArch/src/webappcleanarch.web/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/belajar-coding/paradaya/WebAppCleanArch/src/WebAppCleanArch.Web/Views/_ViewStart.cshtml]
+[D:/belajar-coding/paradaya/FullStack MVC NET/WebAppCleanArch/src/webappcleanarch.web/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/belajar-coding/paradaya/WebAppCleanArch/src/WebAppCleanArch.Web/Views/Shared/_Layout.cshtml]
+[D:/belajar-coding/paradaya/FullStack MVC NET/WebAppCleanArch/src/webappcleanarch.web/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-xkw3eg7mdz

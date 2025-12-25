@@ -17,5 +17,5 @@ public class Course
 
     // Navigation
     [ForeignKey(nameof(StudentId))]
-    public Student Student { get; set; }
+    public Student? Student { get; set; }
 }

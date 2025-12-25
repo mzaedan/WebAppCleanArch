@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\belajar-coding\\paradaya\\WebAppCleanArch\\src\\WebAppCleanArch.Application\\WebAppCleanArch.Application.csproj": {}
+    "D:\\belajar-coding\\paradaya\\FullStack MVC NET\\WebAppCleanArch\\src\\WebAppCleanArch.Application\\WebAppCleanArch.Application.csproj": {}
   },
   "projects": {
-    "D:\\belajar-coding\\paradaya\\WebAppCleanArch\\src\\WebAppCleanArch.Application\\WebAppCleanArch.Application.csproj": {
+    "D:\\belajar-coding\\paradaya\\FullStack MVC NET\\WebAppCleanArch\\src\\WebAppCleanArch.Application\\WebAppCleanArch.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\belajar-coding\\paradaya\\WebAppCleanArch\\src\\WebAppCleanArch.Application\\WebAppCleanArch.Application.csproj",
+        "projectUniqueName": "D:\\belajar-coding\\paradaya\\FullStack MVC NET\\WebAppCleanArch\\src\\WebAppCleanArch.Application\\WebAppCleanArch.Application.csproj",
         "projectName": "WebAppCleanArch.Application",
-        "projectPath": "D:\\belajar-coding\\paradaya\\WebAppCleanArch\\src\\WebAppCleanArch.Application\\WebAppCleanArch.Application.csproj",
+        "projectPath": "D:\\belajar-coding\\paradaya\\FullStack MVC NET\\WebAppCleanArch\\src\\WebAppCleanArch.Application\\WebAppCleanArch.Application.csproj",
         "packagesPath": "C:\\Users\\Muhamad Zaedan\\.nuget\\packages\\",
-        "outputPath": "D:\\belajar-coding\\paradaya\\WebAppCleanArch\\src\\WebAppCleanArch.Application\\obj\\",
+        "outputPath": "D:\\belajar-coding\\paradaya\\FullStack MVC NET\\WebAppCleanArch\\src\\WebAppCleanArch.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Muhamad Zaedan\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\belajar-coding\\paradaya\\WebAppCleanArch\\src\\WebAppCleanArch.Domain\\WebAppCleanArch.Domain.csproj": {
-                "projectPath": "D:\\belajar-coding\\paradaya\\WebAppCleanArch\\src\\WebAppCleanArch.Domain\\WebAppCleanArch.Domain.csproj"
+              "D:\\belajar-coding\\paradaya\\FullStack MVC NET\\WebAppCleanArch\\src\\WebAppCleanArch.Domain\\WebAppCleanArch.Domain.csproj": {
+                "projectPath": "D:\\belajar-coding\\paradaya\\FullStack MVC NET\\WebAppCleanArch\\src\\WebAppCleanArch.Domain\\WebAppCleanArch.Domain.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "D:\\belajar-coding\\paradaya\\WebAppCleanArch\\src\\WebAppCleanArch.Domain\\WebAppCleanArch.Domain.csproj": {
+    "D:\\belajar-coding\\paradaya\\FullStack MVC NET\\WebAppCleanArch\\src\\WebAppCleanArch.Domain\\WebAppCleanArch.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\belajar-coding\\paradaya\\WebAppCleanArch\\src\\WebAppCleanArch.Domain\\WebAppCleanArch.Domain.csproj",
+        "projectUniqueName": "D:\\belajar-coding\\paradaya\\FullStack MVC NET\\WebAppCleanArch\\src\\WebAppCleanArch.Domain\\WebAppCleanArch.Domain.csproj",
         "projectName": "WebAppCleanArch.Domain",
-        "projectPath": "D:\\belajar-coding\\paradaya\\WebAppCleanArch\\src\\WebAppCleanArch.Domain\\WebAppCleanArch.Domain.csproj",
+        "projectPath": "D:\\belajar-coding\\paradaya\\FullStack MVC NET\\WebAppCleanArch\\src\\WebAppCleanArch.Domain\\WebAppCleanArch.Domain.csproj",
         "packagesPath": "C:\\Users\\Muhamad Zaedan\\.nuget\\packages\\",
-        "outputPath": "D:\\belajar-coding\\paradaya\\WebAppCleanArch\\src\\WebAppCleanArch.Domain\\obj\\",
+        "outputPath": "D:\\belajar-coding\\paradaya\\FullStack MVC NET\\WebAppCleanArch\\src\\WebAppCleanArch.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Muhamad Zaedan\\AppData\\Roaming\\NuGet\\NuGet.Config"

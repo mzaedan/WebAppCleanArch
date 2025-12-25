@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3Dma1fmof78=",
+  "dgSpecHash": "sDoRN7tGp3Q=",
   "success": true,
-  "projectFilePath": "D:\\belajar-coding\\paradaya\\WebAppCleanArch\\src\\WebAppCleanArch.Infrastructure\\WebAppCleanArch.Infrastructure.csproj",
+  "projectFilePath": "D:\\belajar-coding\\paradaya\\FullStack MVC NET\\WebAppCleanArch\\src\\WebAppCleanArch.Infrastructure\\WebAppCleanArch.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Muhamad Zaedan\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Muhamad Zaedan\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

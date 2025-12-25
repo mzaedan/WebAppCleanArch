@@ -3,6 +3,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using WebAppCleanArch.Application.Common.Interfaces;
 using WebAppCleanArch.Application.Students;
+using WebAppCleanArch.Application.Courses;
 using WebAppCleanArch.Domain.Interfaces;
 using WebAppCleanArch.Infrastructure.Data;
 using WebAppCleanArch.Infrastructure.Persistence.Context;
@@ -21,7 +22,9 @@ public static class DependencyInjection
         services.AddScoped<IApplicationDbContext>(provider => provider.GetRequiredService<ApplicationDbContext>());
         
         services.AddScoped<IStudentRepository, StudentRepository>();
+        services.AddScoped<ICourseRepository, CourseRepository>();
         services.AddScoped<StudentService>();
+        services.AddScoped<CourseService>();
         
         return services;
     }

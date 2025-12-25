@@ -8,6 +8,12 @@ builder.Services.AddInfrastructure(builder.Configuration);
 
 var app = builder.Build();
 
+using (var scope = app.Services.CreateScope())
+{
+    var context = scope.ServiceProvider.GetRequiredService<WebAppCleanArch.Infrastructure.Persistence.Context.ApplicationDbContext>();
+    WebAppCleanArch.Infrastructure.Persistence.ApplicationDbInitializer.Initialize(context);
+}
+
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
