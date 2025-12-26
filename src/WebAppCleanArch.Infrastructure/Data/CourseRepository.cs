@@ -15,10 +15,14 @@ public class CourseRepository : ICourseRepository
     }
 
     public Task<List<Course>> GetAllAsync()
-        => _context.Courses.ToListAsync();
+        => _context.Courses
+            .Include(c => c.Student)
+            .ToListAsync();
 
     public Task<Course?> GetByIdAsync(int id)
-        => _context.Courses.FindAsync(id).AsTask();
+        => _context.Courses
+            .Include(c => c.Student)
+            .FirstOrDefaultAsync(c => c.Id == id);
 
     public Task<Course?> GetWithStudentAsync(int id)
         => _context.Courses
