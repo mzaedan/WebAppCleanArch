@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAppCleanArch.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17496a79de94d24eee8ddb38b85e36c599e1831a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0524654013502dc373324268e4dfb06cfdd90ece")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAppCleanArch.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAppCleanArch.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
