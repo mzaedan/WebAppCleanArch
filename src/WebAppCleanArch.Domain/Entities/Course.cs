@@ -10,7 +10,7 @@ public class Course
 
     [Required]
     [StringLength(100)]
-    public string CourseName { get; set; }
+    public string CourseName { get; set; } = string.Empty;
 
     // FK
     public int StudentId { get; set; }

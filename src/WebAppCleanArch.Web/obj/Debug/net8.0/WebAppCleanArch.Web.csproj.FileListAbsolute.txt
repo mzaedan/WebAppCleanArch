@@ -297,3 +297,8 @@ D:\belajar-coding\paradaya\FullStack MVC NET\WebAppCleanArch\src\WebAppCleanArch
 D:\belajar-coding\paradaya\FullStack MVC NET\WebAppCleanArch\src\WebAppCleanArch.web\obj\Debug\net8.0\WebAppCleanArch.Web.pdb
 D:\belajar-coding\paradaya\FullStack MVC NET\WebAppCleanArch\src\WebAppCleanArch.web\obj\Debug\net8.0\WebAppCleanArch.Web.genruntimeconfig.cache
 D:\belajar-coding\paradaya\FullStack MVC NET\WebAppCleanArch\src\WebAppCleanArch.web\obj\Debug\net8.0\ref\WebAppCleanArch.Web.dll
+D:\belajar-coding\paradaya\FullStack MVC NET\WebAppCleanArch\src\WebAppCleanArch.Web\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\belajar-coding\paradaya\FullStack MVC NET\WebAppCleanArch\src\WebAppCleanArch.Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\belajar-coding\paradaya\FullStack MVC NET\WebAppCleanArch\src\WebAppCleanArch.Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\belajar-coding\paradaya\FullStack MVC NET\WebAppCleanArch\src\WebAppCleanArch.Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\belajar-coding\paradaya\FullStack MVC NET\WebAppCleanArch\src\WebAppCleanArch.Web\obj\Debug\net8.0\WebAppCleanArch.Web.MvcApplicationPartsAssemblyInfo.cs

@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "D:\\belajar-coding\\paradaya\\FullStack MVC NET\\WebAppCleanArch\\src\\webappcleanarch.web\\WebAppCleanArch.Web.csproj": {}
+    "D:\\belajar-coding\\paradaya\\FullStack MVC NET\\WebAppCleanArch\\src\\WebAppCleanArch.Web\\WebAppCleanArch.Web.csproj": {}
   },
   "projects": {
     "D:\\belajar-coding\\paradaya\\FullStack MVC NET\\WebAppCleanArch\\src\\WebAppCleanArch.Application\\WebAppCleanArch.Application.csproj": {
@@ -204,14 +204,14 @@
         }
       }
     },
-    "D:\\belajar-coding\\paradaya\\FullStack MVC NET\\WebAppCleanArch\\src\\webappcleanarch.web\\WebAppCleanArch.Web.csproj": {
+    "D:\\belajar-coding\\paradaya\\FullStack MVC NET\\WebAppCleanArch\\src\\WebAppCleanArch.Web\\WebAppCleanArch.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\belajar-coding\\paradaya\\FullStack MVC NET\\WebAppCleanArch\\src\\webappcleanarch.web\\WebAppCleanArch.Web.csproj",
+        "projectUniqueName": "D:\\belajar-coding\\paradaya\\FullStack MVC NET\\WebAppCleanArch\\src\\WebAppCleanArch.Web\\WebAppCleanArch.Web.csproj",
         "projectName": "WebAppCleanArch.Web",
-        "projectPath": "D:\\belajar-coding\\paradaya\\FullStack MVC NET\\WebAppCleanArch\\src\\webappcleanarch.web\\WebAppCleanArch.Web.csproj",
+        "projectPath": "D:\\belajar-coding\\paradaya\\FullStack MVC NET\\WebAppCleanArch\\src\\WebAppCleanArch.Web\\WebAppCleanArch.Web.csproj",
         "packagesPath": "C:\\Users\\Muhamad Zaedan\\.nuget\\packages\\",
-        "outputPath": "D:\\belajar-coding\\paradaya\\FullStack MVC NET\\WebAppCleanArch\\src\\webappcleanarch.web\\obj\\",
+        "outputPath": "D:\\belajar-coding\\paradaya\\FullStack MVC NET\\WebAppCleanArch\\src\\WebAppCleanArch.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Muhamad Zaedan\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -258,6 +258,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[10.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[10.1.0, )"
             }
           },
           "imports": [
